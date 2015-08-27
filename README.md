@@ -2,7 +2,9 @@
 
 Resource monitor for Processing.
 
+![](http://i.imgur.com/bi8Wg3c.png)
 
+## Example
 ```processing
 
 P5M_RuntimeMonitor runtimeMonitor;
